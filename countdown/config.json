@@ -1,0 +1,12 @@
+{
+  "use_seconds": 2400,
+  "rest_seconds": 600,
+  "popup_width": 600,
+  "popup_height": 400,
+  "video_path": "D:/2_web_download/休息时间到-山治.mp4",
+  "auto_start_countdown": true,
+  "windows_autostart": true,
+  "enable_tray": true,
+  "enable_toast": false,
+  "enable_lock_screen": true
+}
